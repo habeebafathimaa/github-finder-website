@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "GitHub Finder" },
+    { "path": "/search", "title": "Search GitHub profiles" },
+    { "path": "/profile/:username", "title": "GitHub profile" },
+    { "path": "/about", "title": "About GitHub Finder" }
+  ]
+}

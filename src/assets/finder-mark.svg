@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GitHub Finder magnifier mark">
+  <rect width="512" height="512" fill="#231719" />
+  <circle cx="224" cy="212" r="146" fill="#eee2d4" />
+  <circle cx="224" cy="212" r="112" fill="#231719" />
+  <path d="m329 317 103 103" fill="none" stroke="#eee2d4" stroke-width="48" stroke-linecap="round" />
+  <circle cx="432" cy="420" r="27" fill="#eee2d4" />
+  <path d="m224 137 21 61 61 23-61 22-21 63-21-63-62-22 62-23 21-61Z" fill="#a45d68" />
+</svg>
